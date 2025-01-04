@@ -1,4 +1,5 @@
 
+
 # Data Extraction and Text Analysis
 
 This repository contains a project completed for Blackcoffer Consulting, aimed at extracting textual data from given URLs and performing text analysis. The project involves extracting article text, performing various analyses, and generating insights using Python.
